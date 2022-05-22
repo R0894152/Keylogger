@@ -14,7 +14,6 @@ from cryptography.fernet import Fernet
 from requests import get
 
 from multiprocessing import Process, freeze_support
-from PIL import ImageGrab
 
 #Variables
 
