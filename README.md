@@ -13,7 +13,7 @@ Some of the functionalities it has are:
 - Clipboard copying
 - Getting basic system information + IP Addresses.
 
-Things I plan to do with this project in my second year college:
+Things I plan to do with this project in my second year of college:
 
 - Encryption
 - Turn it into an .exe
